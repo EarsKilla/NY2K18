@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         2k18
-// @version      1.1
+// @version      1.2
 // @description  try to take pisos in the mouth!
 // @author       EarsKilla#0697
 // @match        *://*.vk.com/*
