@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         2k18
-// @version      1.2
+// @version      1.3
 // @description  try to take bennys in the mouth!
 // @author       EarsKilla#0697
 // @match        *://*.vk.com/*
