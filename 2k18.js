@@ -1,5 +1,5 @@
 window.Ny2018.startFlapper = function() {
-    var i = this, x = !1;
+    var i = this, x = !1, h = window.vkImage;
     if (w.paddingBottom = (window.innerHeight - w.height) / 2, this.init(), cancelAnimationFrame(m), x)
         return this.start();
     var t = h();
