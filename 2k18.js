@@ -1,5 +1,5 @@
 window.Ny2018.startFlapper = function() {
-    var i = this;
+    var i = this, x = !1;
     if (w.paddingBottom = (window.innerHeight - w.height) / 2, this.init(), cancelAnimationFrame(m), x)
         return this.start();
     var t = h();
